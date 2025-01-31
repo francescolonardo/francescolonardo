@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### GitHub Stats
+
 <div style="display: flex; justify-content: space-between;">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=francescolonardo&show=prs_merge&hide=contribs&rank_icon=github&show_icons=true&theme=aura_dark" style="width: 53%; height: auto;"/>
   <img alt="GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescolonardo&layout=compact&size_weight=0.5&count_weight=0.5&hide_progress=true&show_icons=true&theme=aura_dark" style="width: 33%; height: auto;"/>
 </div>
 
-
-## Penetration Testing Tools
+### Penetration Testing Tools
 
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-5A5A5A?style=flat&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-5A5A5A?style=flat&logo=metasploit&logoColor=white)
