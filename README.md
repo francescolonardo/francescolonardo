@@ -15,3 +15,17 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francescolonardo&show_icons=true&theme=chartreuse-dark&show=reviews,prs_merge&rank_icon=github)
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francescolonardo&show_icons=true&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5&layout=compact&hide_progress=true)
+
+
+## Tools and Languages
+
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-5A5A5A?style=flat&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-5A5A5A?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-5A5A5A?style=flat&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-5A5A5A?style=flat&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-5A5A5A?style=flat&logo=wireshark&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-5A5A5A?style=flat&logo=linux&logoColor=white)
+![Hydra](https://img.shields.io/badge/-Hydra-5A5A5A?style=flat&logo=hydra&logoColor=white)
+![Nikto](https://img.shields.io/badge/-Nikto-5A5A5A?style=flat&logo=nikto&logoColor=white)
+![SQLMap](https://img.shields.io/badge/-SQLMap-5A5A5A?style=flat&logo=sql&logoColor=white)
+![Netcat](https://img.shields.io/badge/-Netcat-5A5A5A?style=flat&logo=netcat&logoColor=white)
