@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francescolonardo&show=prs_merge&hide=contribs&rank_icon=github&show_icons=true&theme=dracula)
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francescolonardo&show_icons=true&theme=dracula)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francescolonardo&layout=compact&size_weight=0.5&count_weight=0.5&hide_progress=true&show_icons=true&theme=dracula)
 
 
 ## Penetration Testing Tools
