@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francescolonardo&show_icons=true&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5&layout=compact&hide_progress=true)
 
 
-## Tools and Languages
+## Penetration Testing Tools
 
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-5A5A5A?style=flat&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-5A5A5A?style=flat&logo=metasploit&logoColor=white)
