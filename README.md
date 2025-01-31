@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: flex; justify-content: space-between;">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=francescolonardo&show_icons=true&theme=chartreuse-dark&show=reviews,prs_merge&rank_icon=github" style="width: 63%; height: auto;"/>
-  <img alt="GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescolonardo&show_icons=true&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5&layout=compact&hide_progress=true" style="width: 33%; height: auto;"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=francescolonardo&show_icons=true&theme=chartreuse-dark&show=reviews,prs_merge&rank_icon=github" style="width: 58%; height: auto;"/>
+  <img alt="GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescolonardo&show_icons=true&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5&layout=compact&hide_progress=true" style="width: 38%; height: auto;"/>
 </div>
 
 
