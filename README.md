@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <img alt="GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescolonardo&layout=compact&size_weight=0.5&count_weight=0.5&hide_progress=true&show_icons=true&theme=github_dark_dimmed" style="width: 33%; height: auto;"/>
 </div>
 
+<!--
 ### Penetration Testing Tools
 
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-5A5A5A?style=flat&logo=kali-linux&logoColor=white)
@@ -32,3 +33,4 @@ Here are some ideas to get you started:
 ![Nikto](https://img.shields.io/badge/-Nikto-5A5A5A?style=flat&logo=nikto&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/-SQLMap-5A5A5A?style=flat&logo=sql&logoColor=white)
 ![Netcat](https://img.shields.io/badge/-Netcat-5A5A5A?style=flat&logo=netcat&logoColor=white)
+-->
