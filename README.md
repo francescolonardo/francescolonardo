@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ### GitHub Stats
+-->
 
 <div style="display: flex; justify-content: space-between;">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=francescolonardo&show=prs_merge&hide=contribs&rank_icon=github&show_icons=true&theme=github_dark_dimmed" style="width: 53%; height: auto;"/>
