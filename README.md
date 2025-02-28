@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![Netcat](https://img.shields.io/badge/-Netcat-5A5A5A?style=flat&logo=netcat&logoColor=white)
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&size=24&duration=4000&pause=500&color=5D95F6&multiline=true&width=435&lines=Welcome+on+my+GithHub!+;I+am+Francesco+Lonardo%2C+aka+nVbla;I+am+a+Computer+Engineer+and+a+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&size=24&duration=3500&pause=1000&color=5D95F6&multiline=true&width=650&height=130&lines=Welcome+on+my+GithHub!+;I+am+Francesco+Lonardo+aka+nVbla;a+Computer+Engineer+and+a+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
