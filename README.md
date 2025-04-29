@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=22&duration=2000&pause=250&color=5D95F6&multiline=true&width=850&height=150&lines=Welcome+on+my+GithHub!;I+am+Francesco+Lonardo+(aka+nVbla+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F);+++-+Computer+Engineer;+++-+Penetration+Tester;+++-+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=22&duration=1750&pause=150&color=5D95F6&multiline=true&width=850&height=150&lines=Welcome+on+my+GithHub!;I+am+Francesco+Lonardo+(aka+nVbla+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F);+++-+Computer+Engineer;+++-+Penetration+Tester;+++++-+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
