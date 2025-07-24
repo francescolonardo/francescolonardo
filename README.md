@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="right">
+<div align="left">
   <img src="https://api.visitorbadge.io/api/visitors?path=francescolonardo%2Fpentest-machine-writeups&label=Visitors&labelColor=263759&countColor=263759&style=flat">
 </div>
 <br>
