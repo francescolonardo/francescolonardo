@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-  <img src="https://api.visitorbadge.io/api/visitors?path=francescolonardo%2Ffrancescolonardo&label=Visitors&labelColor=5D95F6&countColor=5D95F6&style=flat">
+  <img src="https://api.visitorbadge.io/api/visitors?path=francescolonardo%2Ffrancescolonardo&label=Visitors&labelColor=5D95F6&countColor=5D95F6&style=flat"> <!-- https://www.visitorbadge.io/ -->
 </div>
 <br>
 
 <!--
-### GitHub Stats
+GitHub Stats
 -->
 
 <div style="display: flex; justify-content: space-between;">
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--
-### Penetration Testing Tools
+Penetration Testing Tools
 
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-5A5A5A?style=flat&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-5A5A5A?style=flat&logo=metasploit&logoColor=white)
