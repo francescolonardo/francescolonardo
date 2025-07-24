@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-  <img src="https://api.visitorbadge.io/api/visitors?path=francescolonardo%2Ffrancescolonardo&labelColor=263759&countColor=263759&style=flat">
+  <img src="https://api.visitorbadge.io/api/visitors?path=francescolonardo%2Ffrancescolonardo&label=Visitors&labelColor=5D95F6&countColor=5D95F6&style=flat">
 </div>
 <br>
 
