@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/%20-5D95F6.svg?logoSource=feather&logo=eye&logoColor=white" height="27">
-  <img src="https://api.visitorbadge.io/api/visitors?path=francescolonardo%2Ffrancescolonardo&label=Visitors&labelColor=5D95F6&countColor=5D95F6&style=flat"> <!-- https://www.visitorbadge.io/ -->
+  <img src="https://custom-icon-badges.demolab.com/badge/%20-5D95F6.svg?logoSource=feather&logo=eye&logoColor=white" height="27"><img src="https://api.visitorbadge.io/api/visitors?path=francescolonardo%2Ffrancescolonardo&label=Visitors&labelColor=5D95F6&countColor=5D95F6&style=flat"> <!-- https://www.visitorbadge.io/ -->
 </div>
 <br>
 
