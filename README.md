@@ -27,6 +27,40 @@ GitHub Stats
   <img alt="GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescolonardo&layout=compact&size_weight=0.5&count_weight=0.5&hide_progress=true&show_icons=true&theme=github_dark_dimmed" style="width: 33%; height: auto;"/>
 </div>
 
+
+<div align="center">
+  <picture>
+    <source
+        srcset="https://github-stats-ebon-three.vercel.app/api?username=francescolonardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-stats-ebon-three.vercel.app/api?username=francescolonardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1&text_color=2A0072"
+        media="(prefers-color-scheme: light)"
+    />
+    <img
+        alt="Refresh the page to see my GitHub Stats"
+        height="190px" align="center"
+        src="https://github-stats-ebon-three.vercel.app/api?username=francescolonardo&show_icons=true"
+    />
+  </picture>
+  <picture>
+    <source
+        srcset="https://github-stats-ebon-three.vercel.app/api/top-langs?username=francescolonardo&layout=compact&hide_title=false&hide=jupyter%20notebook&theme=tokyonight&bg_color=421A38"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-stats-ebon-three.vercel.app/api/top-langs?username=francescolonardo&layout=compact&hide_title=false&hide=jupyter%20notebook&theme=cobalt&bg_color=f1faee&text_color=2A0072"
+        media="(prefers-color-scheme: light)"
+    />
+    <img
+        alt="Refresh the page to see the most used languages of me"
+        height="190px" align="center"
+        src="https://github-stats-ebon-three.vercel.app/api/top-langs?username=arg387&layout=compact&hide=jupyter%20notebook"
+    />
+  </picture>
+</div> 
+
 <!--
 Penetration Testing Tools
 
