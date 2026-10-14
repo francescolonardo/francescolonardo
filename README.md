@@ -29,7 +29,7 @@ GitHub Stats
 
 <br>
 <a href="https://git.io/typing-svg">
-  <img alt="Francesco Lonardo (n∇bla)" src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=21&duration=500&pause=0&color=5D95F6&width=850&height=30&repeat=false&lines=Francesco+Lonardo+(n%E2%88%87bla)">
+  <img alt="Francesco Lonardo (n∇bla)" src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=21&duration=10&pause=0&color=5D95F6&width=850&height=30&repeat=false&lines=Francesco+Lonardo+(n%E2%88%87bla)">
 </a>
 <a href="https://git.io/typing-svg">
   <img alt="Professional profile" src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=18&duration=2500&pause=150&color=5D95F6&multiline=true&width=850&height=80&lines=-+Bug+Bounty+Hunter;-+Web%2C+API+%26+Mobile+Security;-+100%2B+Vulnerabilities+Reported">
