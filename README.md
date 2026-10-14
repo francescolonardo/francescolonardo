@@ -49,7 +49,3 @@ Penetration Testing Tools
 ![SQLMap](https://img.shields.io/badge/-SQLMap-5A5A5A?style=flat&logo=sql&logoColor=white)
 ![Netcat](https://img.shields.io/badge/-Netcat-5A5A5A?style=flat&logo=netcat&logoColor=white)
 -->
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=22&duration=1750&pause=150&color=5D95F6&multiline=true&width=850&height=117&lines=Francesco+Lonardo+(n%E2%88%87bla);+++-+Bug+Bounty+Hunter;+++++-+Web,+API+%26+Mobile+Security;+++++-+100%2B+Vulnerabilities+Reported)](https://git.io/typing-svg)
