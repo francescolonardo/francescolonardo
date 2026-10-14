@@ -44,4 +44,4 @@ Penetration Testing Tools
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=22&duration=1750&pause=150&color=5D95F6&multiline=true&width=850&height=160&lines=Francesco+Lonardo+(n∇bla);+++-+Computer+Engineer;+++-+Bug+Bounty+Hunter;+++++-+Web,+API+&+Mobile+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=22&duration=1750&pause=150&color=5D95F6&multiline=true&width=850&height=160&lines=Francesco+Lonardo+(n∇bla);+++-+Computer+Engineer;+++-+Bug+Bounty+Hunter;+++++-+Web,+API+%26+Mobile+Security)](https://git.io/typing-svg)
