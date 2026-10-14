@@ -22,10 +22,18 @@ Here are some ideas to get you started:
 GitHub Stats
 -->
 
-<div style="display: flex; justify-content: space-between;">
-  <img alt="GitHub Stats" src="https://github-readme-stats-francescolonard.vercel.app/api?username=francescolonardo&show=prs_merge&hide=contribs&rank_icon=github&show_icons=true&theme=github_dark_dimmed" style="width: 53%; height: auto;"/>
-  <img alt="GitHub Languages" src="https://github-readme-stats-francescolonard.vercel.app/api/top-langs/?username=francescolonardo&layout=compact&size_weight=0.5&count_weight=0.5&hide_progress=true&show_icons=true&theme=github_dark_dimmed" style="width: 33%; height: auto;"/>
-</div>
+<p align="center">
+  <img
+    alt="GitHub activity"
+    height="165"
+    src="https://github-readme-stats-francescolonard.vercel.app/api?username=francescolonardo&show=prs_merged&hide=contribs&hide_rank=true&show_icons=true&theme=github_dark_dimmed&custom_title=GitHub%20Activity"
+  />
+  <img
+    alt="Languages"
+    height="165"
+    src="https://github-readme-stats-francescolonard.vercel.app/api/top-langs?username=francescolonardo&hide_progress=true&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&custom_title=Languages"
+  />
+</p>
 
 <!--
 Penetration Testing Tools
