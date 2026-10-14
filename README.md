@@ -22,14 +22,10 @@ Here are some ideas to get you started:
 GitHub Stats
 -->
 
-  <p align="center">
-    <img alt="GitHub Activity" width="49%" src="https://github-readme-stats-francescolonard.vercel.app/api?
-  username=francescolonardo&amp;show=prs_merged&amp;hide=contribs&amp;hide_rank=true&amp;show_icons=true&amp;line_height=20&amp;card_width=430&amp;theme=git
-  hub_dark_dimmed&amp;custom_title=GitHub%20Activity">
-    <img alt="Languages" width="49%" src="https://github-readme-stats-francescolonard.vercel.app/api/top-langs?
-  username=francescolonardo&amp;hide_progress=true&amp;langs_count=8&amp;card_width=430&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=github_dark_dimme
-  d&amp;custom_title=Languages">
-  </p>
+<div style="display: flex; justify-content: space-between;">
+  <img alt="GitHub Stats" src="https://github-readme-stats-francescolonard.vercel.app/api?username=francescolonardo&show=prs_merge&hide=contribs&rank_icon=github&show_icons=true&theme=github_dark_dimmed" style="width: 53%; height: auto;"/>
+  <img alt="GitHub Languages" src="https://github-readme-stats-francescolonard.vercel.app/api/top-langs/?username=francescolonardo&layout=compact&size_weight=0.5&count_weight=0.5&hide_progress=true&show_icons=true&theme=github_dark_dimmed" style="width: 33%; height: auto;"/>
+</div>
 
 <!--
 Penetration Testing Tools
