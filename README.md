@@ -27,6 +27,14 @@ GitHub Stats
   <img alt="GitHub Languages" src="https://github-readme-stats-francescolonard.vercel.app/api/top-langs/?username=francescolonardo&layout=compact&size_weight=0.5&count_weight=0.5&hide_progress=true&show_icons=true&theme=github_dark_dimmed&custom_title=Languages" style="width: 33%; height: auto;"/>
 </div>
 
+  <a href="https://git.io/typing-svg">
+    <img alt="Francesco Lonardo (n∇bla)" src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&duration=1750&pause=150&color=5D95F6&width=850&height=45&repeat=false&lines=Francesco+Lonardo+(n%E2%88%87bla)">
+  </a>
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img alt="Professional profile" src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=20&duration=1750&pause=150&color=5D95F6&multiline=true&width=850&height=90&lines=-+Bug+Bounty+Hunter;-+Web%2C+API+%26+Mobile+Security;-+100%2B+Vulnerabilities+Reported">
+  </a>
+
 <!--
 Penetration Testing Tools
 
